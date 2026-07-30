@@ -1,156 +1,116 @@
-# 📊 Powerbi Sales Dashboard | Power BI
+# 📊 Apex Sales Dashboard | Power BI
 
-An interactive Power BI dashboard designed to analyze sales performance and provide actionable business insights through dynamic visualizations and KPIs.
+An interactive Power BI dashboard developed to analyze Apex sales data and provide business insights through dynamic visualizations, KPIs, and geographic analysis.
 
 ---
 
 # 📌 Project Overview
 
-This project analyzes sales data using Power BI to help business stakeholders monitor sales performance, profitability, customer behavior, and regional trends. The dashboard enables users to explore data interactively and make informed business decisions.
+The Apex Sales Dashboard enables business users to monitor sales performance across branches, sales methods, product categories, and cities. The dashboard provides an intuitive interface for exploring trends, comparing performance, and supporting data-driven decision making.
 
 ---
 
-# 🎯 Business Problem
+# 🎯 Business Objective
 
-Businesses often struggle to answer questions such as:
+The objective of this project is to:
 
-- Which region generates the highest sales?
-- Which product category is the most profitable?
-- Which customer segment contributes the most revenue?
-- How are sales and profits changing over time?
-- Which products should receive more business focus?
-
-This dashboard provides clear answers through interactive visualizations.
+- Analyze sales performance across different branches.
+- Compare sales generated through different sales methods.
+- Understand category-wise sales contribution.
+- Monitor sales and quantity trends over time.
+- Identify geographical distribution of sales.
 
 ---
 
 # 🛠️ Tools & Technologies
 
-- Power BI Desktop
+- Microsoft Power BI
 - Power Query
 - DAX (Data Analysis Expressions)
 - Microsoft Excel
-- Data Modeling
 
 ---
 
 # 📂 Dataset
 
-**Dataset:** Super Store Sales Dataset
+**Dataset:** Apex Sales Data
 
-The dataset includes:
+The dataset contains information such as:
 
-- Order Details
-- Customer Information
-- Product Categories
-- Sales
-- Profit
-- Quantity
-- Region
-- Segment
+- Sales Amount
+- Quantity Sold
+- Branch
+- Method Type
+- Category
+- City
 - Order Date
-- Shipping Information
 
 ---
 
 # 📈 Dashboard Features
 
-✔ Executive KPI Cards
+### 📌 KPI & Visual Analysis
 
-- Total Sales
-- Total Profit
-- Total Orders
-- Average Sales
-
-✔ Sales Analysis
-
-- Sales by Region
-- Sales by State
-- Monthly Sales Trend
-
-✔ Product Analysis
-
-- Sales by Category
-- Sales by Sub-Category
-- Top Performing Products
-
-✔ Customer Analysis
-
-- Customer Segment Performance
-- Sales Distribution
-
-✔ Interactive Filters
-
-- Region
-- Category
-- Segment
-- Year
+- Branch-wise Sales Distribution
+- Method Type-wise Sales Analysis
+- Category-wise Sales Analysis
+- Monthly Sales & Quantity Trend
+- City-wise Sales Map
+- Interactive Filters for Data Exploration
 
 ---
 
-# 📊 Key Performance Indicators (KPIs)
+# 📊 Dashboard Visuals
 
-| KPI | Description |
-|------|-------------|
-| Total Sales | Overall revenue generated |
-| Total Profit | Total business profit |
-| Total Orders | Number of orders placed |
-| Average Sales | Average revenue per order |
+✔ Donut Chart – Sales by Branch
+
+✔ Donut Chart – Sales by Method Type
+
+✔ Donut Chart – Sales by Category
+
+✔ Line Chart – Sales vs Quantity Trend
+
+✔ Map – Sales by City
 
 ---
 
-# 💡 Key Insights
+# 💡 Business Insights
 
-- Technology category generated the highest profit.
-- West region recorded the highest overall sales.
-- Consumer segment contributed the maximum revenue.
-- Monthly sales trend helps identify seasonal business patterns.
-- Interactive filters allow users to drill down into specific business areas.
+- Compare sales contribution across different branches.
+- Analyze customer purchasing methods (Internet, Phone, Physical).
+- Identify top-performing product categories.
+- Track monthly sales and quantity trends.
+- Visualize city-wise sales using an interactive map.
+- Support business decisions with real-time visual insights.
 
 ---
 
 # 📷 Dashboard Preview
 
-> Add your dashboard screenshot here.
-
-Example:
-
-![Dashboard](dashboard.png)
+![Apex Sales Dashboard](Download.png)
 
 ---
 
 # 📁 Repository Structure
 
 ```
-powerbi-Sales-Dashboard
+PowerBI-Sales-Dashboard
 │
 ├── README.md
 ├── Sales Dashboard.pbix
-├── Apex Dataset.xlsx
-├── dashboard.png
+├── Apex.xlsx
+└── Download.png
 ```
 
 ---
 
-# 🚀 Business Value
-
-This dashboard helps decision-makers:
-
-- Monitor business performance
-- Identify profitable products
-- Compare regional sales
-- Improve strategic planning
-- Support data-driven decision making
-
----
-
-# 🔮 Future Enhancements
+# 🚀 Future Enhancements
 
 - SQL Database Integration
 - Automated Data Refresh
 - Sales Forecasting
-- Customer Retention Analysis
-- Advanced DAX Measures
+- Advanced KPI Dashboard
+- Customer Segmentation Analysis
 
 ---
 
@@ -159,3 +119,4 @@ This dashboard helps decision-makers:
 **Priyanka Kandgule**
 
 **Data Analyst | SQL | Power BI | Excel | Python | MySQL**
+
