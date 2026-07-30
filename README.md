@@ -6,7 +6,7 @@ An interactive Power BI dashboard designed to analyze sales performance and prov
 
 # 📌 Project Overview
 
-This project analyzes Super Store sales data using Power BI to help business stakeholders monitor sales performance, profitability, customer behavior, and regional trends. The dashboard enables users to explore data interactively and make informed business decisions.
+This project analyzes sales data using Power BI to help business stakeholders monitor sales performance, profitability, customer behavior, and regional trends. The dashboard enables users to explore data interactively and make informed business decisions.
 
 ---
 
