@@ -1,6 +1,6 @@
 # 📊 Powerbi Sales Dashboard | Power BI
 
-An interactive Power BI dashboard designed to analyze Super Store sales performance and provide actionable business insights through dynamic visualizations and KPIs.
+An interactive Power BI dashboard designed to analyze sales performance and provide actionable business insights through dynamic visualizations and KPIs.
 
 ---
 
